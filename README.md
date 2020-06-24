@@ -12,3 +12,9 @@ POST IMAGE : localhost:3000/addImage
           2. For local file:
           form file field :
              image
+
+
+Run by follwing these steps:
+cd into the project folder
+in terminal run : npm install
+then run : npm start
